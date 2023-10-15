@@ -2,4 +2,4 @@
 
 The code and the simulink file is presented.
 You may follow my google scholar account for more details. <br>
-<a href="https://scholar.google.co.in/citations?user=TneZVTkAAAAJ&hl=en"></a>Google Scholar
+Google scholar link: <a href="https://scholar.google.co.in/citations?user=TneZVTkAAAAJ&hl=en"></a> https://scholar.google.co.in/citations?user=TneZVTkAAAAJ&hl=en
